@@ -1,0 +1,1 @@
+export default function Home(){return(<main style={{padding:'80px',fontFamily:'sans-serif'}}><h1>MARI.A Studio AI</h1><p>AI Website Builder App</p><button>Start Building</button></main>) }
